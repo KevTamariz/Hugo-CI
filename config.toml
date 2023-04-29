@@ -1,0 +1,4 @@
+baseURL = 'http://35.208.87.26'
+languageCode = 'en-us'
+title = 'Kevin Site'
+theme = "holy"
